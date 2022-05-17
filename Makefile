@@ -11,4 +11,7 @@ format:
 lint:
 	pylint --disable=R,C *.py
 
-all: install lint test format
+deploy:
+	echo "deploy command goes here"
+
+all: install lint test format deploy
