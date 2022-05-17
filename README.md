@@ -9,3 +9,4 @@ This demonstrates the core ideas of DevOps
 * [mlrun](https://github.com/noahgift/mlrun-ideas-may-2022)
 * [mlflow](https://github.com/noahgift/mlflow-project-best-practices)
 * [python-cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
+* [mlrun-model-serving](https://docs.mlrun.org/en/latest/quick-start/quick-start.html#build-test-and-deploy-model-serving-functions)
