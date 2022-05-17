@@ -2,3 +2,9 @@
 
 # devops-for-mlops
 This demonstrates the core ideas of DevOps
+
+
+## Other repos
+
+* [mlrun](https://github.com/noahgift/mlrun-ideas-may-2022)
+* [mlflow](https://github.com/noahgift/mlflow-project-best-practices)
